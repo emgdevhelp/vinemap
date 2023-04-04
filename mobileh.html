@@ -120,7 +120,7 @@ const state = {
   panStart: { x: 0, y: 0 }
 }
 
-function twoFingerMapboxPan (mapbox) => {
+function twoFingerMapboxPan (mapbox) {
   state.mapbox = mapbox
   state.mapbox.getContainer().addEventListener('touchstart', touchStart, false)
   state.mapbox.getContainer().addEventListener('touchmove', touchMove, false)
