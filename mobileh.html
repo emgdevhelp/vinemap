@@ -127,7 +127,7 @@ body { margin: 0; padding: 0; }
         minZoom: 3,
         attributionControl: false
     });
-    const twoFingerMapboxPan = require('mapbox-two-finger-pan');
+    import twoFingerMapboxPan from './module/mapbox-two-finger-pan.js';
     twoFingerMapboxPan(map);
     const nav = new mapboxgl.NavigationControl(
         {
