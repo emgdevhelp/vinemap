@@ -534,7 +534,7 @@ span {
             
             list.onclick = function (event) {
                 if (event.target.tagName != "SPAN") { 
-                    if (event.target.tagName != "SPAN") {
+                    if (event.target.tagName === "A") {
                         var selected_names = document.getElementsByClassName('selected');
                         for (var i = 0; i < selected_names.length; ++i) {
                             selected_names[i].className = "deselected";
