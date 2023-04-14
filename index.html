@@ -15,7 +15,7 @@ body { margin: 0; padding: 0; }
 #map { position: absolute; top: 0; bottom: 0; width: 100%; }
 @font-face {
   font-family: "Noah";
-  src: url("https://emgdevhelp.github.io/winemap/NoahText-Regular.woff") format("truetype");
+  src: url("http://emgdevhelp.github.io/winemap/NoahText-Regular.woff") format("truetype");
   font-weight: 400;
 }
 
@@ -62,6 +62,12 @@ body { margin: 0; padding: 0; }
 }
 .mapboxgl-popup-content .content {
     color: black;
+}
+.my-image-button {
+    background: url("https://storage.yandexcloud.net/svg-wine/world.svg");
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: center center;
 }
 .carousel-control-next-icon {
     background-image: url(https://storage.yandexcloud.net/svg-wine/free-icon-font-angle-right-3916889.svg);
@@ -588,7 +594,38 @@ span {
         showZoom: true
     }
     );
+
+    class entireExtentControl {
+    onAdd(map) {
+        this._map = map;
+        this._container = document.createElement('div');
+        this._container.className = 'mapboxgl-ctrl mapboxgl-ctrl-group';
+        this._container.addEventListener('contextmenu', (e) => e.preventDefault());
+        this._container.addEventListener('click', (e) => map.flyTo({
+            center: [80.018911, 58.003184],
+            duration: 1000,
+            essential: true,
+            zoom: 3
+    }));
+
+        this._container.innerHTML =
+        '<div class="tools-box">' +
+        '<button>' +
+        '<span class="mapboxgl-ctrl-icon my-image-button" aria-hidden="true" title="Description"></span>' +
+        '</button>' +
+        '</div>';
+
+        return this._container;
+    }
+    onRemove() {
+        this.container.parentNode.removeChild(this.container);
+        this.map = undefined;
+    }}
+    const entireExtent = new entireExtentControl();
+
+    map.addControl(entireExtent, 'top-left');
     map.addControl(nav, 'top-left');
+
 
     function createPopup(feature) {
         var coords = feature.geometry.coordinates.slice();
@@ -1087,7 +1124,6 @@ span {
                 clusterId,
                 (err, zoom) => {
                     if (err) return;
-
                     map.easeTo({
                         center: features[0].geometry.coordinates,
                         duration: 3000,
