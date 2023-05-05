@@ -2376,29 +2376,6 @@
                 ]
             },
             "id": 103
-        },
-             {
-            "type": "Feature",
-            "properties": {
-                "id": 104,
-                "Номер": 104,
-                "Назва": "Joli Grand Bistrot",
-                "Тип_з": "Ресторан",
-                "Город": "Санкт-Петербург",
-                "Имя_с": "",
-                "Адрес": "ул. Восстания 45",
-                "Сайт": "https://instagram.com/joli.restaurant?igshid=YmMyMTA2M2Y=",
-                "photos": "'joli.png'"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.361880,
-                    59.941425,
-                    0.0
-                ]
-            },
-            "id": 104
         }
     ]
 }
