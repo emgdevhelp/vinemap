@@ -2365,7 +2365,7 @@
                 "Имя_с": "Анастасия Максимова",
                 "Адрес": "ул. Восстания 45",
                 "Сайт": "https://instagram.com/joli.restaurant?igshid=YmMyMTA2M2Y=",
-                "photos": "'joli.png'"
+                "photos": "'103_0.jpeg', '103_1.png', 'joli.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2376,6 +2376,121 @@
                 ]
             },
             "id": 103
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 104,
+                "Номер": 104,
+                "Назва": "Yale",
+                "Тип_з": "Ресторан",
+                "Город": "Нижний Новгород",
+                "Имя_с": "Виктория Маркевич",
+                "Адрес": "ул. Рождественская, 30",
+                "Сайт": "http://yalerestaurant.ru/",
+                "photos": "'104_0.jpg', '104_1.jpg', 'yale.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.986269,
+                    56.327640,
+                    0.0
+                ]
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 105,
+                "Номер": 105,
+                "Назва": "Чешуя",
+                "Тип_з": "Ресторан",
+                "Город": "Красноярск",
+                "Имя_с": "Михаил Кобзарь",
+                "Адрес": "ул. Ленина, 118А",
+                "Сайт": "https://bellini.delivery/cheshuya",
+                "photos": "'105_0.jpg', '105_1.jpg', '105_2.jpg', 'cheshuya.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.853190,
+                    56.012901,
+                    0.0
+                ]
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 106,
+                "Номер": 106,
+                "Назва": "Bistrot de Luxe Home",
+                "Тип_з": "Ресторан",
+                "Город": "Красноярск",
+                "Имя_с": "Александр Кожуховский",
+                "Адрес": "ул. Красной Армии, 16А",
+                "Сайт": "https://bellinigroup.ru/rest/home/",
+                "photos": "'106_0.jpg', '106_1.jpg', '106_2.jpg', 'bstro.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.852033,
+                    56.013960,
+                    0.0
+                ]
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 107,
+                "Номер": 107,
+                "Назва": "Ro",
+                "Тип_з": "Ресторан",
+                "Город": "Санкт-Петербург",
+                "Имя_с": "Ася Полякова, Александра Кузьмина",
+                "Адрес": "наб. реки Мойки, 44",
+                "Сайт": "https://rorestaurant.ru/",
+                "photos": "'107_0.jpeg', '107_1.jpeg', 'ro.jpg', 'ro1.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.319954,
+                    59.936377,
+                    0.0
+                ]
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 108,
+                "Номер": 108,
+                "Назва": "Kumpan Coffee & Wine Bar",
+                "Тип_з": "Бар, Городское кафе",
+                "Город": "Уфа",
+                "Имя_с": "Леонид Семенов",
+                "Адрес": "ул. Ленина, 60",
+                "Сайт": "https://instagram.com/kumpancafe?igshid=YmMyMTA2M2Y=",
+                "photos": "'108_0.jpg', 'kupman.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.950719,
+                    54.731967,
+                    0.0
+                ]
+            },
+            "id": 108
         }
     ]
 }
