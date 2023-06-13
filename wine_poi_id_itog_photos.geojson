@@ -2491,6 +2491,29 @@
                 ]
             },
             "id": 110
-        }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 111,
+                "Номер": 111,
+                "Назва": "Utopist",
+                "Тип_з": "Бар",
+                "Город": "Санкт-Петербург",
+                "Имя_с": "Елена Максимова",
+                "Адрес": "Ковенский пер, 14",
+                "Сайт": "https://instagram.com/utopist.spb?igshid=NTc4MTIwNjQ2YQ==",
+                "photos": "'111_0.jpg', '111_1.jpg', '111_2.jpg', '111_3.jpg', 'utopist.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.359014,
+                    59.937481,
+                    0.0
+                ]
+            },
+            "id": 111
+        },
     ]
 }
