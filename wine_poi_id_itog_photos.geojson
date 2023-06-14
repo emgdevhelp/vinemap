@@ -111,7 +111,7 @@
                 "Имя_с": null,
                 "Адрес": "ул. Профсоюзная 16/10",
                 "Сайт": "https://www.cru.ru",
-                "photos": "'5_1.JPG', '5_0.JPG'"
+                "photos": "'5_1.jpg', '5_0.jpg'"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +341,7 @@
                 "Имя_с": "Эдуард Тер-Геворкян",
                 "Адрес": "Романов пер. 2, стр.1",
                 "Сайт": "https://nd.club",
-                "photos": "'15_4.PNG', '15_2.jpeg', '15_3.jpeg', 'NOODOME.png'"
+                "photos": "'15_4.png', '15_2.jpeg', '15_3.jpeg', 'NOODOME.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +502,7 @@
                 "Имя_с": "Сергей Аксеновский",
                 "Адрес": "Тверской бульвар 26, стр.3",
                 "Сайт": "https://www.turandot-palace.ru",
-                "photos": "'23_4.JPG', '23_0.jpeg', '23_1.PNG', '23_3.jpeg', '23_2.jpeg', 'turandot.png'"
+                "photos": "'23_4.jpg', '23_0.jpeg', '23_1.png', '23_3.jpeg', '23_2.jpeg', 'turandot.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +617,7 @@
                 "Имя_с": "Анастасия Чиркова",
                 "Адрес": "Столешников пер. 2, стр.1",
                 "Сайт": "https://www.km20.ru/cafe/",
-                "photos": "'28_2.JPG', '28_1.JPG', '28_3.JPG', '28_4.jpg', 'km20.png'"
+                "photos": "'28_2.jpg', '28_1.jpg', '28_3.jpg', '28_4.jpg', 'km20.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1307,7 +1307,7 @@
                 "Имя_с": "Юлия Гневашева",
                 "Адрес": "ул. Пушкина 15",
                 "Сайт": "https://lovewinefish.ru",
-                "photos": "'58_1.JPG', '58_0.JPG', 'lubit_vino.png'"
+                "photos": "'58_1.jpg', '58_0.jpg', 'lubit_vino.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1353,7 +1353,7 @@
                 "Имя_с": "Ян Скопин",
                 "Адрес": "ул. Колыванская 8",
                 "Сайт": "https://www.skopin-wine.ru",
-                "photos": "'60_0.PNG', '60_1.PNG', 'skopin.png'"
+                "photos": "'60_0.png', '60_1.png', 'skopin.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1445,7 +1445,7 @@
                 "Имя_с": "Дарья Гудина, Алёна Сафарова",
                 "Адрес": "ул. Ленина 21",
                 "Сайт": "https://nuvowine.ru",
-                "photos": "'64_3.PNG', '64_2.jpg', '64_1.JPG', 'nuvo.png'"
+                "photos": "'64_3.png', '64_2.jpg', '64_1.jpg', 'nuvo.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1583,7 +1583,7 @@
                 "Имя_с": "Евгений Шамов",
                 "Адрес": "ул. Воскова 31/20",
                 "Сайт": "https://instagram.com/lastochkiwinebar?igshid=YmMyMTA2M2Y=",
-                "photos": "'70_1.JPG', '70_4.JPG', '70_5.JPG', '70_7.JPG', '70_3.JPG', '70_8.JPG', '70_9.JPG', 'lastochki.png'"
+                "photos": "'70_1.jpg', '70_4.jpg', '70_5.jpg', '70_7.jpg', '70_3.jpg', '70_8.jpg', '70_9.jpg', 'lastochki.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1790,7 +1790,7 @@
                 "Имя_с": "Полина Новичкова",
                 "Адрес": "наб. канала Грибоедова 2B",
                 "Сайт": "https://marsopolo.ru",
-                "photos": "'80_2.webp', '80_0.JPG', '80_1.webp', 'Sea_Signora_Marso_Saviv.png'"
+                "photos": "'80_2.webp', '80_0.jpg', '80_1.webp', 'Sea_Signora_Marso_Saviv.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1836,7 +1836,7 @@
                 "Имя_с": "Сюзанна Шиндер",
                 "Адрес": "ул. Инструментальная 3B",
                 "Сайт": "https://bigwinefreaks.ru/spb/",
-                "photos": "'82_1.JPG', '82_2.JPG', '82_3.JPG', 'BIG_WINE_FREAKS_2.png'"
+                "photos": "'82_1.jpg', '82_2.jpg', '82_3.jpg', 'BIG_WINE_FREAKS_2.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1882,7 +1882,7 @@
                 "Имя_с": "Андрей Ермишкин",
                 "Адрес": "наб. Адмирала Лазарева 22",
                 "Сайт": "https://instagram.com/saro_restaurant?igshid=YmMyMTA2M2Y=",
-                "photos": "'85_2.JPG', '85_1.JPG', '85_0.JPG', 'SARO.png'"
+                "photos": "'85_2.jpg', '85_1.jpg', '85_0.jpg', 'SARO.png'"
             },
             "geometry": {
                 "type": "Point",
