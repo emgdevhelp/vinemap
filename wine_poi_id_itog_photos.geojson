@@ -502,7 +502,7 @@
                 "Имя_с": "Сергей Аксеновский",
                 "Адрес": "Тверской бульвар 26, стр.3",
                 "Сайт": "https://www.turandot-palace.ru",
-                "photos": "'23_4.jpg', '23_0.jpeg', '23_1.png', '23_3.jpeg', '23_2.jpeg', 'turandot.png'"
+                "photos": "'23_4.jpeg', '23_0.jpeg', '23_1.png', '23_3.jpeg', '23_2.jpeg', 'turandot.png'"
             },
             "geometry": {
                 "type": "Point",
