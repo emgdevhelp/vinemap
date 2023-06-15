@@ -2514,6 +2514,29 @@
                 ]
             },
             "id": 111
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 112,
+                "Номер": 112,
+                "Назва": "Beefzavod",
+                "Тип_з": "Ресторан",
+                "Город": "Санкт-Петербург",
+                "Имя_с": "Саша Кизеева",
+                "Адрес": "Аптекарский проспект, 2",
+                "Сайт": "https://instagram.com/beefzavod?igshid=MzRlODBiNWFlZA==",
+                "photos": "'112_0.jpg', '112_1.jpg', '112_2.jpg', 'beefzavod.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.318257,
+                    59.969079,
+                    0.0
+                ]
+            },
+            "id": 112
         }
     ]
 }
