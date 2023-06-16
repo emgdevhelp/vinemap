@@ -2583,6 +2583,29 @@
                 ]
             },
             "id": 114
+        },
+                {
+            "type": "Feature",
+            "properties": {
+                "id": 115,
+                "Номер": 115,
+                "Назва": "Mamie",
+                "Тип_з": "Ресторан",
+                "Город": "Москва",
+                "Имя_с": "Полина Комухина",
+                "Адрес": "Большая Никитская, 14/2",
+                "Сайт": "https://mamie.lucky-group.rest/?fbclid=PAAaY09GHhKL5OnJXe-5N9jMV-jWfEIW5Le_vTSx_diyviMkXt6ZyO8KqRp-Q_aem_th_AZrFYnR_bsXUViyg1GXNnMiUBKDhKpYM5fHTQE-oXG_rjyJy-QQL69QOuilQS4sYJ94",
+                "photos": "'115_0.JPG', '115_1.JPG', '115_2.JPG', 'mamie.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.605365,
+                    55.756771,
+                    0.0
+                ]
+            },
+            "id": 115
         }
     ]
 }
