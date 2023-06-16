@@ -2560,6 +2560,29 @@
                 ]
             },
             "id": 113
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 114,
+                "Номер": 114,
+                "Назва": "MEGUmi",
+                "Тип_з": "Ресторан",
+                "Город": "Санкт-Петербург",
+                "Имя_с": "Павел Горянский",
+                "Адрес": "пер. Антоненко, 2 (отель Lotte)",
+                "Сайт": "https://www.lottehotel.com/global/en/reservation/restaurant-step1.html",
+                "photos": "'114_0.jpeg', '114_1.jpeg', '114_2.jpeg', 'MEGUmi.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.310776,
+                    59.931369,
+                    0.0
+                ]
+            },
+            "id": 114
         }
     ]
 }
