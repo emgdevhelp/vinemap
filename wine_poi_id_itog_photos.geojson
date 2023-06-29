@@ -2606,6 +2606,29 @@
                 ]
             },
             "id": 115
+        },
+                {
+            "type": "Feature",
+            "properties": {
+                "id": 116,
+                "Номер": 116,
+                "Назва": "Lucky Izakaya",
+                "Тип_з": "Ресторан",
+                "Город": "Москва",
+                "Имя_с": "Георгий Елизаров",
+                "Адрес": "Большая Никитская, 23/9",
+                "Сайт": "https://luckyizakaya.lucky-group.rest/",
+                "photos": "'116_0.jpg', '116_1.jpg', '116_2.jpg', 'lucky_izakaya.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.600233,
+                    55.757136,
+                    0.0
+                ]
+            },
+            "id": 116
         }
     ]
 }
