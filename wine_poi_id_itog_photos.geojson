@@ -2515,7 +2515,7 @@
             },
             "id": 114
         },
-                {
+        {
             "type": "Feature",
             "properties": {
                 "id": 115,
@@ -2524,7 +2524,7 @@
                 "Тип_з": "Ресторан",
                 "Город": "Москва",
                 "Имя_с": "Полина Комухина",
-                "Адрес": "Большая Никитская, 14/2",
+                "Адрес": "ул. Большая Никитская, 14/2",
                 "Сайт": "https://mamie.lucky-group.rest/?fbclid=PAAaY09GHhKL5OnJXe-5N9jMV-jWfEIW5Le_vTSx_diyviMkXt6ZyO8KqRp-Q_aem_th_AZrFYnR_bsXUViyg1GXNnMiUBKDhKpYM5fHTQE-oXG_rjyJy-QQL69QOuilQS4sYJ94",
                 "photos": "'115_0.JPG', '115_1.JPG', '115_2.JPG', 'mamie.jpg'"
             },
@@ -2538,7 +2538,7 @@
             },
             "id": 115
         },
-                {
+        {
             "type": "Feature",
             "properties": {
                 "id": 116,
@@ -2547,7 +2547,7 @@
                 "Тип_з": "Ресторан",
                 "Город": "Москва",
                 "Имя_с": "Георгий Елизаров",
-                "Адрес": "Большая Никитская, 23/9",
+                "Адрес": "ул. Большая Никитская, 23/9",
                 "Сайт": "https://luckyizakaya.lucky-group.rest/",
                 "photos": "'116_0.jpg', '116_1.jpg', '116_2.jpg', 'lucky_izakaya.jpg'"
             },
@@ -2560,6 +2560,29 @@
                 ]
             },
             "id": 116
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 117,
+                "Номер": 117,
+                "Назва": "Moments",
+                "Тип_з": "Ресторан",
+                "Город": "Москва",
+                "Имя_с": "Андрей Попов",
+                "Адрес": "ул. Татарская, 7",
+                "Сайт": "https://instagram.com/moments_gastropub?igshid=MzRlODBiNWFlZA==",
+                "photos": "'117_0.jpeg', '117_1.jpeg', 'moments.jpeg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.638888,
+                    55.733441,
+                    0.0
+                ]
+            },
+            "id": 117
         }
     ]
 }
