@@ -770,29 +770,6 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 35,
-                "Номер": 35,
-                "Назва": "Le Pigeon",
-                "Тип_з": "Ресторан",
-                "Город": "Москва",
-                "Имя_с": "Никита Уренцев",
-                "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
-                "Сайт": "https://pinskiy.co/restaurant/pigeon",
-                "photos": "'35_0.jpeg', '35_2.jpeg', '35_1.webp', 'Le_Pigeon.png'"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.623044720626595,
-                    55.767973494482554,
-                    0.0
-                ]
-            },
-            "id": 35
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "id": 36,
                 "Номер": 36,
                 "Назва": "Loona",
@@ -1870,29 +1847,6 @@
                 ]
             },
             "id": 84
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": 85,
-                "Номер": 85,
-                "Назва": "Saro",
-                "Тип_з": "Ресторан",
-                "Город": "Санкт-Петербург",
-                "Имя_с": "Андрей Ермишкин",
-                "Адрес": "наб. Адмирала Лазарева 22",
-                "Сайт": "https://instagram.com/saro_restaurant?igshid=YmMyMTA2M2Y=",
-                "photos": "'85_2.jpeg', '85_1.jpeg', '85_0.jpeg', 'SARO.png'"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.276944296972239,
-                    59.964198203747074,
-                    0.0
-                ]
-            },
-            "id": 85
         },
         {
             "type": "Feature",
